@@ -4,6 +4,8 @@ Prof.Marcel Turcotte
 Joint project between Billal Zazai and Alex Mushyirahamwe for ITI 1121.
 University of Ottawa
 
+Used Model View Controller approuch to develop Minesweeper using Java swing and Java avt library
+
 Running Minesweeper:
 
 1.Open terminal 
