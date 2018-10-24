@@ -15,4 +15,5 @@ Running Minesweeper:
 	-javac *.java
 	
 	-java Minesweeper
+![](MINESS/SS1.png)![](MINESS/SS2.png)![](MINESS/SS3.png)
 
